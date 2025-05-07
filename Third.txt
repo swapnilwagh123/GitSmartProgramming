@@ -1,0 +1,3 @@
+hello third file
+
+third file changes has been done successfully
